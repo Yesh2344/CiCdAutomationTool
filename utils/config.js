@@ -1,3 +1,4 @@
+# Minor edit
 import dotenv from 'dotenv';
 
 dotenv.config();
